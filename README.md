@@ -5,11 +5,11 @@ This is simple PHP site that will explain on how PHP process its code. This will
 ** I encouraging you to read through PHP Manual, there is plenty of example there. **
 
 ## Series
-1.[Simple PHP code](https://github.com/mrwordev/-PHP-Simple-Plain-PHP)
-2.[Including and Require](https://github.com/mrwordev/-PHP-Tailoring-PHP)
-3.[Object](https://github.com/mrwordev/-PHP-Simple-Object-PHP)
-4.[Simple Web](https://github.com/mrwordev/-PHP-Simple-PHP-Website)
-5.[Create Our Framework!](https://github.com/mrwordev/-PHP-Simple-PHP-Framework)
+1. [Simple PHP code](https://github.com/mrwordev/-PHP-Simple-Plain-PHP)
+2. [Including and Require](https://github.com/mrwordev/-PHP-Tailoring-PHP)
+3. [Object](https://github.com/mrwordev/-PHP-Simple-Object-PHP)
+4. [Simple Web](https://github.com/mrwordev/-PHP-Simple-PHP-Website)
+5. [Create Our Framework!](https://github.com/mrwordev/-PHP-Simple-PHP-Framework)
 
 ## Introduction
 PHP is one of server-side scripting language. It using interpreter to execute it at run time. It originally, and still, made for web technologies. Current version is PHP 7.
